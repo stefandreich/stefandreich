@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hello there.
 
-<!--
-**stefandreich/stefandreich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+Hello! I'm Stefan Chichisan, a passionate junior software developer and currently working as a DevOps Engineer. I have a fair background in software engineering and administration, with experience in various programming languages, frameworks, and tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Languages**: Java, Typescript, Python, JavaScript, SQL, C#
+- **Frameworks**: Spring Boot, Angular, Mininet API, POX API, React, Unity
+- **Tools & Platforms**: Git, Docker, Linux, Azure, Azure DevOps, Auth0
+- **Databases**: MySQL, PostgreSQL, MongoDB
+- **Others**: Agile Methodologies, CI/CD, Monitoring & Logging
+
+- 💬 Ask me about anything.
+- 📫 How to reach me: *listed below*
+- ⚡ Fun fact: I am a musician.
+
+## Contact
+- **Email**: stefanchichisan@gmail.com
+- **Linkedin**: [linkedin.com/in/stefandreich](https://linkedin.com/in/stefandreich)
+
+---
+
+Feel free to reach out to me for collaboration, questions, or just to say hi!
