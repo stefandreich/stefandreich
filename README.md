@@ -2,7 +2,7 @@
 
 ## About me
 
-Hello! I'm Stefan Chichisan, a passionate junior software developer and previously worked as a DevOps Engineer. I have a fair background in software engineering and administration, with experience in various programming languages, frameworks, and tools. 
+Hello! I'm Stefan Chichisan, a passionate junior software developer, who previously worked as a DevOps Engineer. I have a fair background in software engineering and administration, with experience in various programming languages, frameworks, and tools. 
 
 Seeking a job as a DevOps Engineer, SysAdmin or Software Developer.
 
