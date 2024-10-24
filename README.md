@@ -4,7 +4,7 @@
 
 Hello! I'm Stefan Chichisan, a passionate junior software developer, who previously worked as a DevOps Engineer. I have a fair background in software engineering and administration, with experience in various programming languages, frameworks, and tools. 
 
-Seeking a job as a DevOps Engineer, SysAdmin or Software Developer.
+Seeking a job as a DevOps Engineer, Cloud Engineer, SysAdmin or Software Developer.
 
 ## Skills
 - **Languages**: Java, Typescript, Python, JavaScript, SQL, C#
