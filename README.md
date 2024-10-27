@@ -7,9 +7,9 @@ Hello! I'm Stefan Chichisan, a passionate junior software developer, who previou
 Seeking a job as a DevOps Engineer, Cloud Engineer, SysAdmin or Software Developer.
 
 ## Skills
-- **Languages**: Java, Typescript, Python, JavaScript, SQL, C#
-- **Frameworks**: Spring Boot, Angular, Mininet API, POX API, React, Unity
-- **Tools & Platforms**: Git, Docker, Linux, Azure, Azure DevOps, Auth0
+- **Languages**: Java, Typescript, Python, Bash, SQL
+- **Frameworks**: Spring Boot, Angular, Mininet API, POX API, React
+- **Tools & Platforms**: Git, Docker, Kubernetes, Linux (Debian & RHEL), Microsoft Azure, Azure DevOps, Auth0
 - **Databases**: MySQL, PostgreSQL, MongoDB
 - **Others**: Agile Methodologies, CI/CD, Monitoring & Logging
 
