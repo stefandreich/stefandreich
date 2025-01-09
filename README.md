@@ -19,7 +19,7 @@ Seeking a job as a DevOps Engineer, Cloud Engineer, SysAdmin or Software Develop
 
 ## Contact
 - **Email**: stefanchichisan@gmail.com
-- **Linkedin**: [linkedin.com/in/stefandreich](https://linkedin.com/in/stefandreich)
+- **LinkedIn**: [linkedin.com/in/stefandreich](https://linkedin.com/in/stefandreich)
 
 ---
 
