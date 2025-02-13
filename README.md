@@ -2,19 +2,19 @@
 
 ## About me
 
-Hello! I'm Stefan Chichisan, a passionate junior software developer, who previously worked as a DevOps Engineer. I have a fair background in software engineering and administration, with experience in various programming languages, frameworks, and tools. 
+Hello! I'm Stefan Chichisan, a passionate junior software developer, who previously worked as a DevOps Engineer. I have a fair background in software development, with experience in various programming languages, frameworks, and tools. 
 
-Seeking a job as a DevOps Engineer, Cloud Engineer, SysAdmin and Software Engineer/Software Developer.
+Seeking a job as a Software Engineer/Software Developer, DevOps Engineer or Cloud Engineer.
 
 ## Skills
-- **Languages**: Java, Typescript, Python, Bash, SQL
-- **Frameworks**: Spring Boot, Angular, Mininet API, POX API, React
-- **Tools & Platforms**: Git, Docker, Kubernetes, Linux (Debian & RHEL), Microsoft Azure, Azure DevOps, Auth0
+- **Languages**: Java, JavaScript, Typescript, Python, Bash, SQL
+- **Frameworks/Libraries**: Spring Boot, NodeJS, React, Redux, Angular, Mininet API, POX API
+- **Tools & Platforms**: Git, Docker, Kubernetes, Linux (Debian & RHEL), Microsoft Azure, Azure DevOps, AWS, Auth0
 - **Databases**: MySQL, PostgreSQL, MongoDB
 - **Others**: Agile Methodologies, CI/CD, Monitoring & Logging
 
 - 💬 Ask me about anything.
-- 📫 How to reach me: *listed below*
+- 📫 How to reach me: *see below*
 - ⚡ Fun fact: I am a musician.
 
 ## Contact
