@@ -2,12 +2,12 @@
 
 ## About me
 
-Hello! I'm Stefan Chichisan, a passionate junior software developer and teaching assistant. I have a fair background in software development, with experience in various programming languages, frameworks, and tools. Currently, I am a DevOps Engineer at OpenText and TA for Technical University of Cluj-Napoca. Previously worked as a Software Developer at Azasoftware and DevOps intern at Ddroidd.
+Hello! I'm Stefan Chichisan, a software engineer and teaching assistant. I have a fair background in software development, with experience in various programming languages, frameworks, and tools. Currently, I am a DevOps Engineer at OpenText and TA for Technical University of Cluj-Napoca. Previously worked as a Software Developer at Azasoftware and DevOps intern at Ddroidd.
 
 ## Skills
-- **Languages**: JavaScript, TypeScript, Java,  Python, Bash, SQL
+- **Languages**: Bash, Groovy, Ansible, Python, JavaScript, TypeScript, Java, SQL
 - **Frameworks/Libraries**: NodeJS, Spring Boot, React, Next.js, Redux, Angular, Mininet API, POX API
-- **Tools & Platforms**: Git, Docker, Kubernetes, Linux (Debian & RHEL), Cisco Packet Tracer, Microsoft Azure, Azure DevOps, AWS, Auth0
+- **Tools & Platforms**: Git, Docker, Kubernetes, K9s, Jenkins, Helm, GitLab CI, Linux (Debian & RHEL), Amazon Web Services, VMware vCloud Director, Cisco Packet Tracer
 - **Databases**: MySQL, PostgreSQL, MongoDB
 - **Others**: Agile Methodologies, CI/CD, Monitoring & Logging
 
